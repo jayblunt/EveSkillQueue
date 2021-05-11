@@ -1,0 +1,5 @@
+CacheControl>=0.12.6
+pymprog>=1.1.2
+requests>=2.25.1
+requests-futures>=1.0.0
+simplejson>=3.17.2

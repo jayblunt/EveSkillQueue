@@ -1,0 +1,402 @@
+[
+  {
+    "finish_date": "2021-05-16T09:56:31Z",
+    "finished_level": 4,
+    "level_end_sp": 452549,
+    "level_start_sp": 80000,
+    "queue_position": 0,
+    "skill_id": 41408,
+    "start_date": "2021-05-07T18:58:13Z",
+    "training_start_sp": 80000
+  },
+  {
+    "finish_date": "2021-07-04T03:50:53Z",
+    "finished_level": 5,
+    "level_end_sp": 3072000,
+    "level_start_sp": 543059,
+    "queue_position": 1,
+    "skill_id": 20532,
+    "start_date": "2021-05-16T09:56:31Z",
+    "training_start_sp": 966169
+  },
+  {
+    "finish_date": "2021-08-31T14:28:01Z",
+    "finished_level": 5,
+    "level_end_sp": 3584000,
+    "level_start_sp": 633568,
+    "queue_position": 2,
+    "skill_id": 24313,
+    "start_date": "2021-07-04T03:50:53Z",
+    "training_start_sp": 1059286
+  },
+  {
+    "finish_date": "2021-10-23T03:23:53Z",
+    "finished_level": 5,
+    "level_end_sp": 3072000,
+    "level_start_sp": 543059,
+    "queue_position": 3,
+    "skill_id": 23069,
+    "start_date": "2021-08-31T14:28:01Z",
+    "training_start_sp": 802324
+  },
+  {
+    "finish_date": "2021-12-01T04:02:35Z",
+    "finished_level": 5,
+    "level_end_sp": 2048000,
+    "level_start_sp": 362039,
+    "queue_position": 4,
+    "skill_id": 24613,
+    "start_date": "2021-10-23T03:23:53Z",
+    "training_start_sp": 362039
+  },
+  {
+    "finish_date": "2021-12-11T12:24:33Z",
+    "finished_level": 4,
+    "level_end_sp": 543059,
+    "level_start_sp": 96000,
+    "queue_position": 5,
+    "skill_id": 20525,
+    "start_date": "2021-12-01T04:02:35Z",
+    "training_start_sp": 96000
+  },
+  {
+    "finish_date": "2021-12-20T03:22:51Z",
+    "finished_level": 4,
+    "level_end_sp": 452549,
+    "level_start_sp": 80000,
+    "queue_position": 6,
+    "skill_id": 24568,
+    "start_date": "2021-12-11T12:24:33Z",
+    "training_start_sp": 80000
+  },
+  {
+    "finish_date": "2021-12-28T18:21:09Z",
+    "finished_level": 4,
+    "level_end_sp": 452549,
+    "level_start_sp": 80000,
+    "queue_position": 7,
+    "skill_id": 41403,
+    "start_date": "2021-12-20T03:22:51Z",
+    "training_start_sp": 80000
+  },
+  {
+    "finish_date": "2022-01-01T05:08:29Z",
+    "finished_level": 4,
+    "level_end_sp": 181020,
+    "level_start_sp": 32000,
+    "queue_position": 8,
+    "skill_id": 3341,
+    "start_date": "2021-12-28T18:21:09Z",
+    "training_start_sp": 32000
+  },
+  {
+    "finish_date": "2022-01-13T06:54:05Z",
+    "finished_level": 4,
+    "level_end_sp": 633568,
+    "level_start_sp": 112000,
+    "queue_position": 9,
+    "skill_id": 24314,
+    "start_date": "2022-01-01T05:08:29Z",
+    "training_start_sp": 112000
+  },
+  {
+    "finish_date": "2022-02-05T21:17:17Z",
+    "finished_level": 5,
+    "level_end_sp": 1536000,
+    "level_start_sp": 271530,
+    "queue_position": 10,
+    "skill_id": 11579,
+    "start_date": "2022-01-13T06:54:05Z",
+    "training_start_sp": 516504
+  },
+  {
+    "finish_date": "2022-02-14T12:15:35Z",
+    "finished_level": 4,
+    "level_end_sp": 452549,
+    "level_start_sp": 80000,
+    "queue_position": 11,
+    "skill_id": 28667,
+    "start_date": "2022-02-05T21:17:17Z",
+    "training_start_sp": 80000
+  },
+  {
+    "finish_date": "2022-03-15T18:44:35Z",
+    "finished_level": 5,
+    "level_end_sp": 1536000,
+    "level_start_sp": 271530,
+    "queue_position": 12,
+    "skill_id": 19719,
+    "start_date": "2022-02-14T12:15:35Z",
+    "training_start_sp": 271530
+  },
+  {
+    "finish_date": "2022-04-14T01:13:35Z",
+    "finished_level": 5,
+    "level_end_sp": 1536000,
+    "level_start_sp": 271530,
+    "queue_position": 13,
+    "skill_id": 28609,
+    "start_date": "2022-03-15T18:44:35Z",
+    "training_start_sp": 271530
+  },
+  {
+    "finish_date": "2022-05-08T10:37:45Z",
+    "finished_level": 5,
+    "level_end_sp": 1280000,
+    "level_start_sp": 226275,
+    "queue_position": 14,
+    "skill_id": 25811,
+    "start_date": "2022-04-14T01:13:35Z",
+    "training_start_sp": 226275
+  },
+  {
+    "finish_date": "2022-06-01T20:01:55Z",
+    "finished_level": 5,
+    "level_end_sp": 1280000,
+    "level_start_sp": 226275,
+    "queue_position": 15,
+    "skill_id": 25810,
+    "start_date": "2022-05-08T10:37:45Z",
+    "training_start_sp": 226275
+  },
+  {
+    "finish_date": "2022-07-10T20:40:37Z",
+    "finished_level": 5,
+    "level_end_sp": 2048000,
+    "level_start_sp": 362039,
+    "queue_position": 16,
+    "skill_id": 25739,
+    "start_date": "2022-06-01T20:01:55Z",
+    "training_start_sp": 362039
+  },
+  {
+    "finish_date": "2022-07-25T11:55:07Z",
+    "finished_level": 5,
+    "level_end_sp": 768000,
+    "level_start_sp": 135765,
+    "queue_position": 17,
+    "skill_id": 20210,
+    "start_date": "2022-07-10T20:40:37Z",
+    "training_start_sp": 135765
+  },
+  {
+    "finish_date": "2022-08-09T03:09:37Z",
+    "finished_level": 5,
+    "level_end_sp": 768000,
+    "level_start_sp": 135765,
+    "queue_position": 18,
+    "skill_id": 3322,
+    "start_date": "2022-07-25T11:55:07Z",
+    "training_start_sp": 135765
+  },
+  {
+    "finish_date": "2022-08-28T15:28:57Z",
+    "finished_level": 5,
+    "level_end_sp": 1024000,
+    "level_start_sp": 181020,
+    "queue_position": 19,
+    "skill_id": 12442,
+    "start_date": "2022-08-09T03:09:37Z",
+    "training_start_sp": 181020
+  },
+  {
+    "finish_date": "2022-09-07T09:38:37Z",
+    "finished_level": 5,
+    "level_end_sp": 512000,
+    "level_start_sp": 90510,
+    "queue_position": 20,
+    "skill_id": 3323,
+    "start_date": "2022-08-28T15:28:57Z",
+    "training_start_sp": 90510
+  },
+  {
+    "finish_date": "2022-10-16T10:17:19Z",
+    "finished_level": 5,
+    "level_end_sp": 2048000,
+    "level_start_sp": 362039,
+    "queue_position": 21,
+    "skill_id": 3339,
+    "start_date": "2022-09-07T09:38:37Z",
+    "training_start_sp": 362039
+  },
+  {
+    "finish_date": "2022-11-25T19:13:54Z",
+    "finished_level": 5,
+    "level_end_sp": 2048000,
+    "level_start_sp": 362039,
+    "queue_position": 22,
+    "skill_id": 11574,
+    "start_date": "2022-10-16T10:17:19Z",
+    "training_start_sp": 362039
+  },
+  {
+    "finish_date": "2022-12-20T04:38:04Z",
+    "finished_level": 5,
+    "level_end_sp": 1280000,
+    "level_start_sp": 226275,
+    "queue_position": 23,
+    "skill_id": 12486,
+    "start_date": "2022-11-25T19:13:54Z",
+    "training_start_sp": 226275
+  },
+  {
+    "finish_date": "2023-01-13T14:02:14Z",
+    "finished_level": 5,
+    "level_end_sp": 1280000,
+    "level_start_sp": 226275,
+    "queue_position": 24,
+    "skill_id": 12487,
+    "start_date": "2022-12-20T04:38:04Z",
+    "training_start_sp": 226275
+  },
+  {
+    "finish_date": "2023-02-06T23:26:24Z",
+    "finished_level": 5,
+    "level_end_sp": 1280000,
+    "level_start_sp": 226275,
+    "queue_position": 25,
+    "skill_id": 12484,
+    "start_date": "2023-01-13T14:02:14Z",
+    "training_start_sp": 226275
+  },
+  {
+    "finish_date": "2023-03-18T00:05:06Z",
+    "finished_level": 5,
+    "level_end_sp": 2048000,
+    "level_start_sp": 362039,
+    "queue_position": 26,
+    "skill_id": 21610,
+    "start_date": "2023-02-06T23:26:24Z",
+    "training_start_sp": 362039
+  },
+  {
+    "finish_date": "2023-04-01T15:19:36Z",
+    "finished_level": 5,
+    "level_end_sp": 768000,
+    "level_start_sp": 135765,
+    "queue_position": 27,
+    "skill_id": 19760,
+    "start_date": "2023-03-18T00:05:06Z",
+    "training_start_sp": 135765
+  },
+  {
+    "finish_date": "2023-04-16T06:34:06Z",
+    "finished_level": 5,
+    "level_end_sp": 768000,
+    "level_start_sp": 135765,
+    "queue_position": 28,
+    "skill_id": 3434,
+    "start_date": "2023-04-01T15:19:36Z",
+    "training_start_sp": 135765
+  },
+  {
+    "finish_date": "2023-04-30T21:48:36Z",
+    "finished_level": 5,
+    "level_end_sp": 768000,
+    "level_start_sp": 135765,
+    "queue_position": 29,
+    "skill_id": 19921,
+    "start_date": "2023-04-16T06:34:06Z",
+    "training_start_sp": 135765
+  },
+  {
+    "finish_date": "2023-05-15T13:03:06Z",
+    "finished_level": 5,
+    "level_end_sp": 768000,
+    "level_start_sp": 135765,
+    "queue_position": 30,
+    "skill_id": 3433,
+    "start_date": "2023-04-30T21:48:36Z",
+    "training_start_sp": 135765
+  },
+  {
+    "finish_date": "2023-06-04T01:22:26Z",
+    "finished_level": 5,
+    "level_end_sp": 1024000,
+    "level_start_sp": 181020,
+    "queue_position": 31,
+    "skill_id": 19759,
+    "start_date": "2023-05-15T13:03:06Z",
+    "training_start_sp": 181020
+  },
+  {
+    "finish_date": "2023-06-28T10:46:36Z",
+    "finished_level": 5,
+    "level_end_sp": 1280000,
+    "level_start_sp": 226275,
+    "queue_position": 32,
+    "skill_id": 4411,
+    "start_date": "2023-06-04T01:22:26Z",
+    "training_start_sp": 226275
+  },
+  {
+    "finish_date": "2023-07-22T20:10:46Z",
+    "finished_level": 5,
+    "level_end_sp": 1280000,
+    "level_start_sp": 226275,
+    "queue_position": 33,
+    "skill_id": 19767,
+    "start_date": "2023-06-28T10:46:36Z",
+    "training_start_sp": 226275
+  },
+  {
+    "finish_date": "2023-08-16T05:34:56Z",
+    "finished_level": 5,
+    "level_end_sp": 1280000,
+    "level_start_sp": 226275,
+    "queue_position": 34,
+    "skill_id": 19766,
+    "start_date": "2023-07-22T20:10:46Z",
+    "training_start_sp": 226275
+  },
+  {
+    "finish_date": "2023-10-23T12:42:40Z",
+    "finished_level": 5,
+    "level_end_sp": 3584000,
+    "level_start_sp": 633568,
+    "queue_position": 35,
+    "skill_id": 29029,
+    "start_date": "2023-08-16T05:34:56Z",
+    "training_start_sp": 633568
+  },
+  {
+    "finish_date": "2023-12-30T19:50:24Z",
+    "finished_level": 5,
+    "level_end_sp": 3584000,
+    "level_start_sp": 633568,
+    "queue_position": 36,
+    "skill_id": 20533,
+    "start_date": "2023-10-23T12:42:40Z",
+    "training_start_sp": 633568
+  },
+  {
+    "finish_date": "2024-01-29T02:19:24Z",
+    "finished_level": 5,
+    "level_end_sp": 1536000,
+    "level_start_sp": 271530,
+    "queue_position": 37,
+    "skill_id": 12096,
+    "start_date": "2023-12-30T19:50:24Z",
+    "training_start_sp": 271530
+  },
+  {
+    "finish_date": "2024-02-13T05:40:37Z",
+    "finished_level": 5,
+    "level_end_sp": 768000,
+    "level_start_sp": 135765,
+    "queue_position": 38,
+    "skill_id": 16598,
+    "start_date": "2024-01-29T02:19:24Z",
+    "training_start_sp": 135765
+  },
+  {
+    "finish_date": "2024-02-13T23:58:13Z",
+    "finished_level": 3,
+    "level_end_sp": 40000,
+    "level_start_sp": 7072,
+    "queue_position": 39,
+    "skill_id": 30650,
+    "start_date": "2024-02-13T05:40:37Z",
+    "training_start_sp": 7072
+  }
+]
